@@ -2,7 +2,7 @@
 
 StoryBooks is a web application that users can use to create public and private stories.
 
-(public/storybooks.jpg)
+![photo of the storybooks app](public/storybooks.jpg)
 
 ## How It's Made
 **Tech used:** HTML, CSS, JavaScript, Express, MongoDB, Mongoose, Passport, Google OAuth, Sessions, and Handlebars
