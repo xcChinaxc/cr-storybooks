@@ -1,9 +1,7 @@
 # StoryBooks
 **Purpose:** StoryBooks is a web application that users can use to create public and private stories.
 
-Check out the <a target="_blank" href="https://github.com/xcChinaxc/cr-storybooks">repo</a> here!
-
-I followed a full application build on YouTube to create a beatiful full-stack application.
+I followed this full application build on YouTube to create a beatiful full-stack application with the purpose of learning how to ensure authentification.
 
 ![](public/images/storybooks.jpg)
 
