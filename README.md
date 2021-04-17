@@ -1,7 +1,7 @@
 # StoryBooks
 **Purpose:** StoryBooks is a web application that users can use to create public and private stories.
 
-Check out the <a target="_blank" href="https://github.com/xcChinaxc/lokuri-cr-responsive-website">repo</a> and the <a target="_blank" href="https://focused-heisenberg-9d8dca.netlify.app">demo site</a> here!
+Check out the <a target="_blank" href="https://github.com/xcChinaxc/cr-storybooks">repo</a> here!
 
 I followed a full application build on YouTube to create a beatiful full-stack application.
 
