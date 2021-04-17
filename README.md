@@ -5,7 +5,7 @@ Check out the <a target="_blank" href="https://github.com/xcChinaxc/cr-storybook
 
 I followed a full application build on YouTube to create a beatiful full-stack application.
 
-![](public/storybooks.jpg)
+![](public/images/storybooks.jpg)
 
 ## How It's Made
 **Tech used:** HTML, CSS, JavaScript, Express, MongoDB, Mongoose, Passport, Google OAuth, Sessions, and Handlebars <br>
